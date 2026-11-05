@@ -93,7 +93,7 @@ export default function Home() {
           <a className="btn" href={`mailto:${profile.email}`}>
             Email me
           </a>
-          <a className="btn alt" href={profile.linkedin}>
+          <a className="btn alt" target="_blank" rel="noopener noreferrer" href={profile.linkedin}>
             LinkedIn
           </a>
         </div>
