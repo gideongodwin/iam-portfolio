@@ -5,7 +5,7 @@ export const profile = {
   intro:
     "I’m an identity and access management engineer. I design single sign-on, multi-factor authentication, and least-privilege access for companies with thousands of users and hundreds of apps.",
   email: "ggnsik@gmail.com",
-  linkedin: "#",
+  linkedin: "https://www.linkedin.com/in/gideongodwin/",
   closing: "Need access that’s secure and easy to use?",
   availability: "I’m open to full-time roles and consulting projects.",
 };
